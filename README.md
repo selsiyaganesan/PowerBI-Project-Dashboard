@@ -4,13 +4,13 @@ This Power BI dashboard project provides an analytical overview of the data-rela
 
 ---
 
-## 📌Introduction
+## 1️⃣📌Introduction
 
 The **Data Jobs Skill Dashboard** is built using Power BI to deliver an insightful analysis of the 2024 data job market. Although not based on real-time listings, this project uses static data from that year to demonstrate powerful storytelling through interactive visualizations. It is useful for understanding historical job trends and for showcasing skills in building business intelligence dashboards.
 
 ---
 
-## 🛠️Skills Showcased
+## 2️⃣🛠️Skills Showcased
 
 - **Data Transformation (ETL) with Power Query**  
   Cleaned and reshaped raw job datasets using Power Query Editor. Applied filters, split columns, handled null values, and created calculated fields for analysis.
@@ -38,7 +38,7 @@ The **Data Jobs Skill Dashboard** is built using Power BI to deliver an insightf
 
 ---
 
-## 📈Dashboard Overview
+## 3️⃣📈Dashboard Overview
 
 ### 🔹 Page 1: High-Level Market View
 
@@ -68,7 +68,7 @@ The **Data Jobs Skill Dashboard** is built using Power BI to deliver an insightf
 
 ---
 
-## ✅ Conclusion
+## 4️⃣✅Conclusion
 
 This Power BI project showcases essential BI development skills by using static 2024 job data to build a powerful, interactive dashboard. While the dataset is not real-time, the visualizations offer a meaningful way to understand the structure and demand of data jobs during that year. It reflects both **technical capabilities** and the ability to tell compelling stories using data.
 
