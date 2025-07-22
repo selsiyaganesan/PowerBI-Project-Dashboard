@@ -51,9 +51,7 @@ The **Data Jobs Skill Dashboard** is built using Power BI to deliver an insightf
 - **Hourly vs Yearly Salary**: Bubble chart comparing roles
   
 🖼️ Screenshot:
-<img width="1300" height="729" alt="Screenshot 2025-07-22 114337" src="https://github.com/user-attachments/assets/20523ad6-0545-4cfe-96bb-569feb53b01d" />
-
-![Screen Recording 2025-07-22 120209](https://github.com/user-attachments/assets/725802cc-2c79-4f00-a50e-9b2289123dfb)
+<img width="1300" height="729" alt="Screenshot 2025-07-22 114337" src="https://github.com/user-attachments/assets/20523ad6-0545-4cfe-96bb-569feb53b01d" />  
 
 
 ### 🔹 Page 2: Job Title Drill Through (Example: Data Engineer)
@@ -67,8 +65,6 @@ The **Data Jobs Skill Dashboard** is built using Power BI to deliver an insightf
 🖼️ Screenshot:
 <img width="1303" height="726" alt="Screenshot 2025-07-22 114426" src="https://github.com/user-attachments/assets/60c84563-a0a7-4204-9cc7-6ee6af4965e5" />
 
-![Screen Recording 2025-07-22 120401](https://github.com/user-attachments/assets/700758d7-7cae-4724-a247-c1cd9eea2fc2)
-
 
 ---
 
@@ -77,6 +73,7 @@ The **Data Jobs Skill Dashboard** is built using Power BI to deliver an insightf
 This Power BI project showcases essential BI development skills by using static 2024 job data to build a powerful, interactive dashboard. While the dataset is not real-time, the visualizations offer a meaningful way to understand the structure and demand of data jobs during that year. It reflects both **technical capabilities** and the ability to tell compelling stories using data.
 
 ---
+📹![Screen Recording 2025-07-22 115901](https://github.com/user-attachments/assets/c2e3849a-53a3-47e8-9b33-14d7e0a1b7ef)
 
 🔗 *Made with Power BI | Designed by Selsiya Ganesan*
 
